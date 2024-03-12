@@ -1,0 +1,23 @@
+{
+    "graalvm.home": "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home",
+    "graalvm.installations": [
+        "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home"
+    ],
+    "terminal.integrated.env.osx": {
+        "GRAALVM_HOME": "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home"
+    },
+    "java.home": "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home",
+            "default": true
+        }
+    ],
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "/Users/loki/Library/Java/JavaVirtualMachines/graalvm-ce-17/Contents/Home"
+        }
+    ]
+}
